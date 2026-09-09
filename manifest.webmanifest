@@ -1,0 +1,30 @@
+{
+  "name": "機械保全技能士1級 学科トレーナー",
+  "short_name": "機械保全1級",
+  "description": "機械保全技能検定1級（機械系保全作業）学科試験の過去問演習",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#e9edef",
+  "theme_color": "#e9edef",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
